@@ -84,7 +84,7 @@ def main():
 
         again = input("\nDo you want to restart the process? (yes/no): ").strip().lower()
         if again != "yes":
-            print("Goodbye! 😊")
+            print("Goodbye! ")
             break
 
 if __name__ == "__main__":
